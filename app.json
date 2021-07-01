@@ -1,7 +1,7 @@
 {
     "name": "Pro Auto Filter Bot V2",
-    "description": "Pro Auto Filter BoT V2 MoTect MRK_YT",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
+    "description": "This is a Pro Auto Filter BoT V2 only made for MOVIE HOUSE",
+    "logo": "https://telegra.ph/file/5d5453f2b2d05d78d7c43.jpg",
     "keywords": [
         "Pro",
         "Auto",
@@ -9,16 +9,16 @@
         "Bot",
         "V2"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/mo_tech_yt",
+    "website": "https://github.com/culprit-k",
+    "repository": "https://github.com/culprit-k/Pro-AutoFilter-bot_v2",
+    "success_url": "https://telegram.dog/Movie_House_1",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From my.telegram.org",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From my.telegram.org",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -26,7 +26,7 @@
             "value": ""
         },
         "C_ID_START": {
-            "description": "C_ID_START : Watch Tutorial Video😁",
+            "description": "C_ID_START",
             "value": ""
         },
         "DB_URI": {
@@ -34,27 +34,27 @@
             "value": ""
         },
         "G_ID_START": {
-            "description": "G_ID_START : Watch Tutorial Video😁",
+            "description": "G_ID_START",
             "value": ""
         },
         "JOIN_MAIN_CHANNEL": {
-            "description": "JOIN_MAIN_CHANNEL : Watch Tutorial Video😁",
+            "description": "JOIN_MAIN_CHANNEL",
             "value": ""
         },
         "BOT_MASTER": {
-            "description": "MASTER_BOT : Watch Tutorial Video😁",
+            "description": "MASTER_BOT",
             "value": "Skp_kp"
         },
         "TEXT_MEG_PH": {
-            "description": "TEXT_MEG_PH : Watch Tutorial Video😁",
+            "description": "TEXT_MEG_PH",
             "value": ""
         },
         "UPDATE_CHANNEL": {
-            "description": " UPDATE_CHANNEL : Watch Tutorial Video😁",
+            "description": " UPDATE_CHANNEL",
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @MT_UserSession_BoT",
+            "description": "A Pyrogram User Session String",
             "value": ""
         }
     },
