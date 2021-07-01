@@ -4,18 +4,15 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+     START_TEXT = """<b>Hey {}!!</b>
+<i>Am Just A Advance Auto Filter Bot....😉
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
-
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
-    
+For More Details Click Help Button Below..
+@Movie_House_1 , @MH_linkzz
+</i>"""  
+        
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
 
@@ -46,18 +43,24 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b>@Movie_House_1</b> , <b>@MH_linkzz</b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>⭕ Name</b> : <b>Auto Filter Bot</b>
+    
+<b>⭕ Creator</b> : <b><a href="https://t.me/abhijith876">@abhijith876</a></b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>⭕ Language</b> : <b>Python3</b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>⭕ Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 🗣️Language</b> : <b>Python3<b>
-
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
-
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
 """
+    FORCE_SUBTEXT = """⚠️ 𝑹𝑬𝑨𝑫 𝑻𝑯𝑰𝑺 𝑰𝑵𝑺𝑻𝑹𝑼𝑪𝑻𝑰𝑶𝑵 ⚠️
+    
+<i><b>🗣️Hey 👋 Bro</b></i> <i>𝕄𝕆𝕍𝕀𝔼 ℍ𝕆𝕌𝕊𝔼 ഗ്രൂപ്പിൽ നിങ്ങൾ ചോദിക്കുന്ന സിനിമകൾ ലഭിക്കണം എന്നുണ്ടെങ്കിൽ നിങ്ങൾ താഴെ കൊടുത്തിട്ടുള്ള ചാനലിൽ ജോയിൻ ചെയ്യണം. ജോയിൻ ചെയിത ശേഷം വീണ്ടും ഇവിടെ വന്ന് <b><a href='{tryagain}'>Try Again</a></b> എന്ന ബട്ടനിൽ അമർത്തി <b>Start</b> അമർത്തിയാൽ നിങ്ങൾക്ക് ഞാൻ ആ സിനിമ അയച്ചു തരുന്നതാണ്..!!</i>😍
+
+🔊In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Click on the <b><a href='{tryagain}'>Try Again</a></b> Button below. I'll Send You That Movie 🙈
+
+        👇 <b>𝖩𝖮𝖨𝖭 𝖳𝖧𝖨𝖲 𝖢𝖧𝖠𝖭𝖭𝖤𝖫 & 𝖳𝖱𝖸</b> 👇
+        
+<b>{invitelink}</b>"""
