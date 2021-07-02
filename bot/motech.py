@@ -1,5 +1,5 @@
 # Update
-MT_BOT_UPDATES = "t.me/Mo_tech_YT"
+⭕ OUR CHANNEL LINKS ⭕ = "t.me/MH_linkzz"
 # Your Main Channel
-BOT_UPDATES = "t.me/Mo_Tech_YT"
+⭕ GROUP ⭕ = "Movie_House_1"
 
