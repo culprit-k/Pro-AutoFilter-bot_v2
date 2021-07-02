@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/Mo_Tech_Group"
+                    "My Dev ⚡", url="https://t.me/abhijith876"
                 ),
                 
             InlineKeyboardButton
@@ -1639,15 +1639,15 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://github.com/MoTectYT/Pro-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/abhijith876'),
+            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://github.com/culprit-k/Pro-AutoFilter-bot_v2')
         ],[
             InlineKeyboardButton('⚙️𝙷𝚎𝚕𝚙⚙️', callback_data="help")
         ],[
-            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/Mo_Tech_group'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/Mo_Tech_YT')
+            InlineKeyboardButton('⭕GROUP⭕', url='https://t.me/Movie_House_1'),
+            InlineKeyboardButton('⭕ OUR CHANNEL LINKS ⭕', url='https://t.me/MH_linkzz')
         ],[
-            InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://youtu.be/OTqZmADyOjU')
+            InlineKeyboardButton('🖥️ NEW OTT UPDATES 🖥️', url='https://t.me/NewDvdUpdatesKerala')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤Mrk YT', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
+            InlineKeyboardButton('⭕GROUP⭕', url='https://t.me/Movie_House_1'),
+            InlineKeyboardButton('⭕ OUR CHANNEL LINKS ⭕', url='https://t.me/MH_linkzz')
         ],[
-            InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
+            InlineKeyboardButton('🖥️ NEW OTT UPDATES 🖥️', url='https://t.me/NewDvdUpdatesKerala')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
