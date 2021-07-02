@@ -13,8 +13,8 @@ For More Details Click Help Button Below..
 @Movie_House_1 , @MH_linkzz
 </i>"""  
         
-    HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+  HELP_TEXT = """
+<b><i><u>How To Use Me!?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
